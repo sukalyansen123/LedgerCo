@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="geektrust.ledger.LedgerTestService" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-29T15:46:59" hostname="sukalyan-VivoBook-ASUSLaptop-X412FA-X412FA" time="0.007">
+  <properties/>
+  <testcase name="testShowBalance()" classname="geektrust.ledger.LedgerTestService" time="0.002"/>
+  <testcase name="addLoanFailsWhenLoanwithSameKeyRequested()" classname="geektrust.ledger.LedgerTestService" time="0.001"/>
+  <testcase name="addLoanInsertsLoanwithUniqueKey()" classname="geektrust.ledger.LedgerTestService" time="0.001"/>
+  <testcase name="makeLumsumPaymentFailsforNonExistingLoan()" classname="geektrust.ledger.LedgerTestService" time="0.0"/>
+  <testcase name="makeLumsumPaymentAddsPaymentforExistingLoan()" classname="geektrust.ledger.LedgerTestService" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

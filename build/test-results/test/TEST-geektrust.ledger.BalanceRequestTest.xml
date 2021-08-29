@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="geektrust.ledger.BalanceRequestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-29T15:46:59" hostname="sukalyan-VivoBook-ASUSLaptop-X412FA-X412FA" time="0.001">
+  <properties/>
+  <testcase name="testUniqueIdentiferLoanRequest()" classname="geektrust.ledger.BalanceRequestTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
