@@ -14,7 +14,7 @@ repositories {
 jar {
     manifest {
         attributes(
-                'Main': 'geektrust.ledger.Main'
+                'Main-Class': 'geektrust.ledger.Main'
         )
     }
     baseName 'geektrust'
