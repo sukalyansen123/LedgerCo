@@ -12,6 +12,11 @@ repositories {
 
 // tag::jar[]
 jar {
+    manifest {
+        attributes(
+                'Main': 'geektrust.ledger.Main'
+        )
+    }
     baseName 'geektrust'
 }
 // end::jar[]
